@@ -111,7 +111,7 @@ Estos insights pueden ser utilizados para mejorar estrategias comerciales, logí
 
 ---
 
-## 📬 Autor
+##  Autor
 
 Jorge Andres Rodriguez Romero  Desafío Alura LATAM – Data Analysis
 
